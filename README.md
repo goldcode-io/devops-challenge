@@ -21,4 +21,13 @@ And the Healthcheck endpoint that returns the following string:
 {"Status": "heart beating steady and strong"}
 ```
 
+Run the application
+```jsx
+pip install -r src/requirements.txt
+cd src
+gunicorn --bind 0.0.0.0:8888 wsgi:app
+```
+
+
+
 Any questions please contact: [anderson.lima@shawandpartners.com](mailto:anderson.lima@shawandpartners.com)
