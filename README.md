@@ -1,4 +1,4 @@
-# DevOps Challange
+# DevOps Challenge
 
 Fork this project and build the infrastructure of this API the way you want, you can use Docker Compose, AWS or any other way you like, the goal here is to analyze your commits to understand the way you work.
 
