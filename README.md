@@ -28,6 +28,4 @@ cd src
 gunicorn --bind 0.0.0.0:8888 wsgi:app
 ```
 
-
-
 Any questions please contact: [anderson.lima@shawandpartners.com](mailto:anderson.lima@shawandpartners.com)
